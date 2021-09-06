@@ -1,5 +1,5 @@
 # Student Activity Log
-Please edit this README file and mark the respected cell with '1' to reflect your activity on that particular week. Once you've made the editing, please commit the change with a **message** describing *the question you've asked* or *the commentary you've express*.
+Please edit this README file and mark the respected cell with '1' to reflect your activity on that particular week. Once you've made the editing, please commit the change with a **message** describing *the question you've asked* or *the commentary you've express*, then pull a request.
 
 | #  | Student ID     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 |---:|:---------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
